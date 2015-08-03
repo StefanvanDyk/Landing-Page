@@ -1,0 +1,12 @@
+html {
+     margin: 0;
+     padding: 0;
+     background: black url(/images/128x38px-black.JPG) no-repeat top center;
+     }
+body {
+     font-family: verdana, 'sans serif';
+     margin: 0;
+     padding: 0;
+     text-align: center;
+     color: white;
+     }
